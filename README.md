@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaulTeles;
 - 👀 I’m interested in study development;
-- 🌱 I’m currently studying Computer Science, I'm in the 5th period
+- 🌱 I’m currently studying Computer Science, I'm in the 6th period
 - 📫 How to reach me:
 -  < Twitter: @Teles_Raull | Instagram: @Teles_Raul | LinkedIn: raul-teles/ >
 

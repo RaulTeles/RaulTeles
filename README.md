@@ -8,13 +8,13 @@
 - I'm 26 years old;
 - Bachelor's in Computer Science
 - Developer Full-Stack
-- Personal website: <a href="https://portfolio.raulteles.com.br" target="_blank">LINK</a>
+- Personal website: <a href="https://portfolio.raulteles.com.br" target="blank" rel="noopener noreferrer">LINK</a>
 - Program languages: Python | JavaScript | C#
 - Freameworks: Django | Angular | .Net
 - Other knowledgs: Linux Server (Ubuntu, Debian, Fedora), SAMBA4, FileServers ; Windows Server, Active Directory ; Mikrotik, Firewalls... Etc.
 - Contact me:
   
-   - <a href="https://www.linkedin.com/in/raul-teles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
+   - <a href="https://www.linkedin.com/in/raul-teles/" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
  <a href="https://www.instagram.com/teles_raul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a> 
 <br>
 

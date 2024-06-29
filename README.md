@@ -8,7 +8,7 @@
 - I'm 26 years old;
 - Bachelor's in Computer Science
 - Developer Full-Stack
-- Personal website: <a href="portfolio.raulteles.com.br">LINK</a>
+- Personal website: <a href="https://portfolio.raulteles.com.br">LINK</a>
 - Program languages: Python | JavaScript | C#
 - Freameworks: Django | Angular | .Net
 - Other knowledgs: Linux Server (Ubuntu, Debian, Fedora), SAMBA4, FileServers ; Windows Server, Active Directory ; Mikrotik, Firewalls... Etc.

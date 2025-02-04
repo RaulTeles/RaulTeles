@@ -4,13 +4,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1400&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=I'm+Developer+Full+Stack+Jr;Feel+free+to+browse+through+my+repositories+"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-- I'm 26 years old;
+## <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVjYmJocHZyeHpuM2VsNmF4dzlhd2p5Z3ZvbWdnemRzbDFndzdzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width = 35px></picture> **About me**
+- I'm 27 years old;
 - Bachelor's in Computer Science
 - Developer Full-Stack
 - Personal website: <a href="https://portfolio.raulteles.com.br" target="blank" rel="noopener noreferrer">LINK</a>
-- Program languages: Python | JavaScript | C#
-- Freameworks: Django | Angular | .Net
+- Program languages: Java | Python | JavaScript | C#
+- Freameworks: Spring Boot | Django | Angular | .Net
 - Other knowledgs: Linux Server (Ubuntu, Debian, Fedora), SAMBA4, FileServers ; Windows Server, Active Directory ; Mikrotik, Firewalls... Etc.
 - Contact me:
   
@@ -22,7 +22,11 @@
 <p align="center">
 
 - **Languages and Freameworks**:
+  
 
+  
+  ![Java](https://img.shields.io/badge/Java%20-%23507e9c.svg?style=for-the-badge&logo=java&logoColor=Blue)
+  ![SpringBoot](https://img.shields.io/badge/Spring%20Boot%20-%23000000.svg?style=for-the-badge&logo=Spring-boot&logoColor=green)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![CSHARP](https://img.shields.io/badge/CSHARP%20-%231572B6.svg?style=for-the-badge&logo=csharp&logoColor=white)
